@@ -1,0 +1,2 @@
+# Tecnicas_de_Data_Augmentation_em_Imagens_de_Mamografia_e_Ultrassonografia_de_Mama
+Este Repositório contem um Projeto de Estudo objetivando desenvolver algoritmos em Python, implementando técnicas de Data Augmentation, usando bibliotecas para processamento de imagens em visão computacional. As tecnicas implementadas são rotação de 45º em 45º graus, translação vertical/horizontal e espelhamento p/ esquerda/direita e p/ cima/baixo.
